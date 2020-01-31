@@ -1,0 +1,352 @@
+---------------------------------------------------------------------------------------------------------------
+
+{
+  'ok': True,
+  'result': [
+    {
+      'update_id': 477453254,
+      'message': {
+        'message_id': 32,
+        'from': {
+          'id': 485927630,
+          'is_bot': False,
+          'first_name': 'Yeldos',
+          'last_name': 'Aitzhanov',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': -1001438462873,
+          'title': 'WEEKEND',
+          'type': 'supergroup'
+        },
+        'date': 1580313529,
+        'text': '���'
+      }
+    }
+  ]
+}
+
+---------------------------------------------------------------------------------------------------------------
+
+{
+  'ok': True,
+  'result': []
+}
+
+---------------------------------------------------------------------------------------------------------------
+
+{
+  'ok': True,
+  'result': [
+    {
+      'update_id': 477453259,
+      'message': {
+        'message_id': 63,
+        'from': {
+          'id': 335070191,
+          'is_bot': False,
+          'first_name': 'Rakhat',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 335070191,
+          'first_name': 'Rakhat',
+          'type': 'private'
+        },
+        'date': 1580314242,
+        'photo': [
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAANtAAPH0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEx9MEAAE',
+            'file_size': 11488,
+            'width': 240,
+            'height': 320
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN4AAPI0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEyNMEAAE',
+            'file_size': 63795,
+            'width': 600,
+            'height': 800
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN5AAPJ0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEydMEAAE',
+            'file_size': 117360,
+            'width': 960,
+            'height': 1280
+          }
+        ]
+      }
+    }
+  ]
+}
+
+---------------------------------------------------------------------------------------------------------------
+
+{
+  'ok': True,
+  'result': [
+    {
+      'update_id': 477453259,
+      'message': {
+        'message_id': 63,
+        'from': {
+          'id': 335070191,
+          'is_bot': False,
+          'first_name': 'Rakhat',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 335070191,
+          'first_name': 'Rakhat',
+          'type': 'private'
+        },
+        'date': 1580314242,
+        'photo': [
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAANtAAPH0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEx9MEAAE',
+            'file_size': 11488,
+            'width': 240,
+            'height': 320
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN4AAPI0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEyNMEAAE',
+            'file_size': 63795,
+            'width': 600,
+            'height': 800
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN5AAPJ0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEydMEAAE',
+            'file_size': 117360,
+            'width': 960,
+            'height': 1280
+          }
+        ]
+      }
+    }
+  ]
+}
+
+---------------------------------------------------------------------------------------------------------------
+
+{
+  'ok': True,
+  'result': [
+    {
+      'update_id': 477453259,
+      'message': {
+        'message_id': 63,
+        'from': {
+          'id': 335070191,
+          'is_bot': False,
+          'first_name': 'Rakhat',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 335070191,
+          'first_name': 'Rakhat',
+          'type': 'private'
+        },
+        'date': 1580314242,
+        'photo': [
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAANtAAPH0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEx9MEAAE',
+            'file_size': 11488,
+            'width': 240,
+            'height': 320
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN4AAPI0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEyNMEAAE',
+            'file_size': 63795,
+            'width': 600,
+            'height': 800
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN5AAPJ0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEydMEAAE',
+            'file_size': 117360,
+            'width': 960,
+            'height': 1280
+          }
+        ]
+      }
+    }
+  ]
+}
+
+---------------------------------------------------------------------------------------------------------------
+
+{
+  'ok': True,
+  'result': [
+    {
+      'update_id': 477453259,
+      'message': {
+        'message_id': 63,
+        'from': {
+          'id': 335070191,
+          'is_bot': False,
+          'first_name': 'Rakhat',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 335070191,
+          'first_name': 'Rakhat',
+          'type': 'private'
+        },
+        'date': 1580314242,
+        'photo': [
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAANtAAPH0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEx9MEAAE',
+            'file_size': 11488,
+            'width': 240,
+            'height': 320
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN4AAPI0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEyNMEAAE',
+            'file_size': 63795,
+            'width': 600,
+            'height': 800
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN5AAPJ0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEydMEAAE',
+            'file_size': 117360,
+            'width': 960,
+            'height': 1280
+          }
+        ]
+      }
+    }
+  ]
+}
+
+---------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------
+
+{
+  'ok': True,
+  'result': [
+    {
+      'update_id': 477453259,
+      'message': {
+        'message_id': 63,
+        'from': {
+          'id': 335070191,
+          'is_bot': False,
+          'first_name': 'Rakhat',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 335070191,
+          'first_name': 'Rakhat',
+          'type': 'private'
+        },
+        'date': 1580314242,
+        'photo': [
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAANtAAPH0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEx9MEAAE',
+            'file_size': 11488,
+            'width': 240,
+            'height': 320
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN4AAPI0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEyNMEAAE',
+            'file_size': 63795,
+            'width': 600,
+            'height': 800
+          },
+          {
+            'file_id': 'AgACAgIAAxkBAAM_XjGugpx-ARXAmgvMCzXQCTS7Gw8AAguuMRtM34hJS9meWUliaqAqelwPAAQBAAMCAAN5AAPJ0wQAARgE',
+            'file_unique_id': 'AQADKnpcDwAEydMEAAE',
+            'file_size': 117360,
+            'width': 960,
+            'height': 1280
+          }
+        ]
+      }
+    },
+    {
+      'update_id': 477453260,
+      'message': {
+        'message_id': 93,
+        'from': {
+          'id': 335070191,
+          'is_bot': False,
+          'first_name': 'Rakhat',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 335070191,
+          'first_name': 'Rakhat',
+          'type': 'private'
+        },
+        'date': 1580314613,
+        'text': '/start',
+        'entities': [
+          {
+            'offset': 0,
+            'length': 6,
+            'type': 'bot_command'
+          }
+        ]
+      }
+    },
+    {
+      'update_id': 477453261,
+      'message': {
+        'message_id': 102,
+        'from': {
+          'id': 335070191,
+          'is_bot': False,
+          'first_name': 'Rakhat',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 335070191,
+          'first_name': 'Rakhat',
+          'type': 'private'
+        },
+        'date': 1580314618,
+        'text': '/start',
+        'entities': [
+          {
+            'offset': 0,
+            'length': 6,
+            'type': 'bot_command'
+          }
+        ]
+      }
+    },
+    {
+      'update_id': 477453262,
+      'message': {
+        'message_id': 33,
+        'from': {
+          'id': 701251792,
+          'is_bot': False,
+          'first_name': 'Aitemir',
+          'last_name': 'Kuandyk',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': -1001438462873,
+          'title': 'WEEKEND',
+          'type': 'supergroup'
+        },
+        'date': 1580314881,
+        'text': 'hi'
+      }
+    },
